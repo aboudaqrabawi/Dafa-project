@@ -1,12 +1,12 @@
 # Dafa
 ​
-> a website that allows people to upload images and description of winter supplies, and allows people in need to go on and choose what they need. to later be delivered to them.
+> a website that allows people to upload images and description of winter supplies, and allows people in need to go on and choose what they need. 
 ​
 ## Team
 ​
-  - __Product Owner__: Fatima 
-  - __Scrum Master__: Rahaf 
-  - __Development Team Members__: Nour , Dialah , fatima , rahaf
+ 
+  - __Scrum Master__: Abdelhafiz Aqrabawi
+  - __Development Team Members__: Maysaa al sharjawi , Sara Al rajabi , Taghreed ali , Rahmeh al omary , Abdelhafiz Aqrabawi.
 ​
 ## Table of Contents
 ​
@@ -19,31 +19,38 @@
 1. [Contributing](#contributing)
 ​
 ## Usage
-to help people in need by other people
-the uesrs are two types 1: people who want to give away items
-2: people who need the items
-	> you need to sighn in to see our home page.
-	to give somthing away you need to 
-	:-take a picture of the object
-	:-uploud it choose the options and write descrption
-	:-when someone request the object you aploued you will get notify
-	:-you can send them your number for pick up or contact us to help you deliver  it
-	:-if you wish to take one object, simply click on it and we will provide you with 
-	contact information.
-    
+# How To Use
+  ## 1.Installation
+In the project directory, you can run:
+​
+# a. node modules
+```bash
+npm install
+```
+#  2. open the server 
+```bash
+cd backend
+npm start
+```
+ #  3. open the front end  
+```bash
+npm start 
+```
+
 ​
 ## Requirements
 ​
 - Node exepress
 - react 
-- mysql
+- mongoDB
 - bootstrap 
 - bcrypt - Token 
 - Heroku
 ​
-## Development
-​
-​
+# References
+https://reactjs.org/
+https://nodejs.org/en/
+
 ### Installing Dependencies
 ​
 From within the root directory:
